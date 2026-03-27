@@ -1,1 +1,1 @@
-# r-data-analysis-project
+# customer-behaviour-analysis-r
